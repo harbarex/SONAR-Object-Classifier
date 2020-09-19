@@ -18,7 +18,7 @@ The following figures were plotted while performing *Exploratory Data Analysis* 
 
 ### Density Plots:
 
-![](plots/dp1.PNG =100x100)
+![](plots/dp1.PNG | width=100)
 ![](plots/dp2.PNG)
 ![](plots/dp3.PNG)
 ![](plots/dp4.PNG)
