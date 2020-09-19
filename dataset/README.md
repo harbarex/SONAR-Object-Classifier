@@ -19,15 +19,13 @@ The following figures were plotted while performing *Exploratory Data Analysis* 
 ### Density Plots:
 
 <img src="plots/dp1.PNG" width="350" height="200">
-
-![](plots/dp1.PNG)
-![](plots/dp2.PNG)
-![](plots/dp3.PNG)
-![](plots/dp4.PNG)
-![](plots/dp5.PNG)
-![](plots/dp6.PNG)
-![](plots/dp7.PNG)
-![](plots/dp8.PNG)
-![](plots/dp9.PNG)
-![](plots/dp10.PNG)
-![](plots/dp11.PNG)
+<img src="plots/dp2.PNG" width="350" height="200">
+<img src="plots/dp3.PNG" width="350" height="200">
+<img src="plots/dp4.PNG" width="350" height="200">
+<img src="plots/dp5.PNG" width="350" height="200">
+<img src="plots/dp6.PNG" width="350" height="200">
+<img src="plots/dp7.PNG" width="350" height="200">
+<img src="plots/dp8.PNG" width="350" height="200">
+<img src="plots/dp9.PNG" width="350" height="200">
+<img src="plots/dp10.PNG" width="350" height="200">
+<img src="plots/dp11.PNG" width="350" height="200">
