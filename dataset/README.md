@@ -18,8 +18,11 @@ The following figures were plotted while performing *Exploratory Data Analysis* 
 
 ### Density Plots:
 
-<img src="plots/dp1.PNG" width="350" height="200">
-<img src="plots/dp2.PNG" width="350" height="200">
+<table><tr>
+<td> <img src="plots/dp1.PNG" width="350" height="200"> </td>
+<td> <img src="plots/dp2.PNG" width="350" height="200"> </td>
+</tr></table>
+
 <img src="plots/dp3.PNG" width="350" height="200">
 <img src="plots/dp4.PNG" width="350" height="200">
 <img src="plots/dp5.PNG" width="350" height="200">
