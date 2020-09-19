@@ -5,4 +5,23 @@
 There are 208 observations with 60 input variables and 1 output variable 'R' (Rock) or 'M' (Mine).
 The following figures were plotted while performing *Exploratory Data Analysis* on the dataset.
 
-![](plots/Boxplot.png)
+![](plots/Boxplot.PNG)
+
+![](plots/AndrewCurve.PNG)
+
+![](plots/ac1.PNG)
+
+![](plots/ac2.PNG)
+
+![](plots/dp1.PNG)
+
+![](plots/dp2.PNG)
+![](plots/dp3.PNG)
+![](plots/dp4.PNG)
+![](plots/dp5.PNG)
+![](plots/dp6.PNG)
+![](plots/dp7.PNG)
+![](plots/dp8.PNG)
+![](plots/dp9.PNG)
+![](plots/dp10.PNG)
+![](plots/dp11.PNG)
