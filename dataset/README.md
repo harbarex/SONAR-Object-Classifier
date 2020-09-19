@@ -10,11 +10,8 @@ The following figures were plotted while performing *Exploratory Data Analysis* 
 ![](plots/Boxplot.PNG)
 
 ### Andrew Curves:
-![](plots/AndrewCurve.PNG)
-
-![](plots/ac1.PNG)
-
-![](plots/ac2.PNG)
+<img src="plots/ac1.PNG" width="1000" height="300">
+<img src="plots/ac2.PNG" width="1000" height="300">
 
 ### Density Plots:
 
