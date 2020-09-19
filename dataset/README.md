@@ -7,7 +7,7 @@ There are 208 observations with 60 input variables and 1 output variable 'R' (Ro
 The following figures were plotted while performing *Exploratory Data Analysis* on the dataset.
 
 ### Boxplot:
-![](plots/Boxplot.PNG)
+<img src="plots/Boxplot.PNG" width="700" height="200">
 
 ### Andrew Curves:
 <img src="plots/ac1.PNG" width="700" height="200">
