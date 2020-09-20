@@ -1,5 +1,5 @@
 # SONAR Object Classifier
-This project implements a basic classification algorithm using a perceptron model to classify objects found in a SONAR dataset, into Mines &amp; Rocks.
+This project implements a basic classification algorithm using a perceptron model created from scratch, in order to classify objects found in a SONAR dataset, into Mines &amp; Rocks.
 
 ## Acknowledgments
 Thanks to the code provided by [Matthew Carter](https://www.kaggle.com/mattcarter865). 
