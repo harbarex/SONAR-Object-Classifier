@@ -1,10 +1,6 @@
 # SONAR Object Classifier
 This project implements a basic classification algorithm using a perceptron model created from scratch, in order to classify objects found in a SONAR dataset, into Mines &amp; Rocks.
 
-## Acknowledgments
-Thanks to the code provided by [Matthew Carter](https://www.kaggle.com/mattcarter865). 
-The code used as reference for the project is available [here](https://www.kaggle.com/mattcarter865/sonar-mines-vs-rocks/comments).
-
 ## Pseudocode of Perceptron Algorithm
 1. Initialize the weights and threshold to small random numbers.
 2. Present a vector X to the neuron inputs and calculate the output
@@ -39,3 +35,7 @@ Mean Accuracy : 70.192 %
 Scores : [70.1923076923077, 74.03846153846155]
 Mean Accuracy : 72.115 %
 ```
+
+## Acknowledgments
+Thanks to the code provided by [Matthew Carter](https://www.kaggle.com/mattcarter865). 
+The code used as reference for the project is available [here](https://www.kaggle.com/mattcarter865/sonar-mines-vs-rocks/comments).
